@@ -1,4 +1,4 @@
-http://2.bp.blogspot.com/-AEMFuusurAY/WmZzIWGkrmI/AAAAAAAAAnk/e2dyPk_bRfgjYhSOHufT4EsIerBZmHGIwCK4BGAYYCw/s326/sdcdc.png "Haxk.Ur"
+<img src="http://2.bp.blogspot.com/-AEMFuusurAY/WmZzIWGkrmI/AAAAAAAAAnk/e2dyPk_bRfgjYhSOHufT4EsIerBZmHGIwCK4BGAYYCw/s326/sdcdc.png" />
 http://www.haxkur.tk/
 
 # Zcat By: @Killerpop
