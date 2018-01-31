@@ -11,7 +11,8 @@ import socket
 def main():
     reload(sys)
     sys.setdefaultencoding('utf-8')
-    print """
+    
+    print("\[\033[0;31m\]"+"""
 ────────────────────────────▄▀▄─────▄▀▄
 ───────────────────────────▄█░░▀▀▀▀▀░░█▄
 ───────────────────────▄▄──█░░░░░░░░░░░█──▄▄
@@ -31,7 +32,7 @@ We recommend the use in a controlled laboratory.       By Staff Haxk.Ur
 *           -2- Listener                  *       
 *                                         *
 *******************************************
-"""
+""" )
 
     global option
     option = raw_input('Select an option#~: ')
