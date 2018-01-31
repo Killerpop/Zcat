@@ -24,12 +24,13 @@ This tool is created for didactic purposes and not to commit a crime.
 Haxk.Ur does not take care of any malicious use of the tool. 
 We recommend the use in a controlled laboratory.       By Staff Haxk.Ur
  
-
-				-1- BackDoors 
-
-				-2- Listener
-
-
+*******************************************
+*                                         *
+*           -1- Back Doors                *
+*                                         *
+*           -2- Listener                  *       
+*                                         *
+*******************************************
 """
 
     global option
@@ -56,11 +57,14 @@ def backdoor_generator():
                     ▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░
                     ░░░░▄▄███▄▄░░░░░█████░
 
-
-				-1- Linux Backdoor Generate
-				-2- Windows Generic Backdoor
-				-3- PowershellBackdoor
-				-4- JavaScript Backdoor
+*****************************************************************
+*                                                               *
+*	        -1- Linux Backdoor Generate                     *
+*	        -2- Windows Generic Backdoor                    *
+*	        -3- PowershellBackdoor                          *
+*	        -4- JavaScript Backdoor                         *
+*                                                               *
+*****************************************************************
 
 """
 
