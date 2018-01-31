@@ -1,4 +1,4 @@
-! [Alt text](http://2.bp.blogspot.com/-AEMFuusurAY/WmZzIWGkrmI/AAAAAAAAAnk/e2dyPk_bRfgjYhSOHufT4EsIerBZmHGIwCK4BGAYYCw/s326/sdcdc.png "Haxk.Ur")
+http://2.bp.blogspot.com/-AEMFuusurAY/WmZzIWGkrmI/AAAAAAAAAnk/e2dyPk_bRfgjYhSOHufT4EsIerBZmHGIwCK4BGAYYCw/s326/sdcdc.png "Haxk.Ur"
 http://www.haxkur.tk/
 
 # Zcat By: @Killerpop
