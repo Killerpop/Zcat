@@ -18,7 +18,7 @@ def main():
 ───────────────────────▄▄──█░░░░░░░░░░░█──▄▄
 ──────────────────────█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█ 0.6Zcat
                                      0.6Zcat backdoor generator
-                                     By: @Killerpop http://www.haxkur.tk/
+                                     By: @Killerpop https://www.haxkur.ml/
 
 WARNING: 
 This tool is created for didactic purposes and not to commit a crime. 
