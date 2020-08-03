@@ -20,4 +20,4 @@ Commands:
 	cd Zcat
 	python Zcat.py
 
-                          By: Staff Haxk.Ur
+                          By: Staff GreyHelmet SEC
