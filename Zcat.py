@@ -18,12 +18,12 @@ def main():
 ───────────────────────▄▄──█░░░░░░░░░░░█──▄▄
 ──────────────────────█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█ 0.6Zcat
                                      0.6Zcat backdoor generator
-                                     By: @Killerpop https://www.haxkur.ml/
+                                     By: Gzaballa (Killerpop) https://www.greyhelmet.ml/
 
 WARNING: 
 This tool is created for didactic purposes and not to commit a crime. 
 Haxk.Ur does not take care of any malicious use of the tool. 
-We recommend the use in a controlled laboratory.       By Staff Haxk.Ur
+We recommend the use in a controlled laboratory.       By Staff GreyHelmet SEC
  
 *******************************************
 *                                         *
